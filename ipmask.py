@@ -1,4 +1,3 @@
-import time
 import sys
 
 def get_mask(nums):
